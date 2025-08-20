@@ -1,0 +1,4 @@
+This is sample file
+Its only for testing files
+2025-08-20 17:10:31.421514 logged message
+20/08/2025,17:15:41 logged message
